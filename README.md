@@ -2,11 +2,15 @@
 My  code or steps for android security related stuffs.
 
 
-# 1. compile,build,run related
+# 1. JDK
+* [java bytecode, .class to bytecode](jdk/java_bytecode)
+* [java to jar](jdk/java_to_jar)
 
-* [build xx.java to xx.dex and run by dx cmd](compile_build/build_dex_from_java_and_run)
-* [java bytecode, .class to bytecode](compile_build/java_bytecode)
-* [java to jar](compile_build/java_to_jar)
-* [dex to jar](compile_build/dex_to_jar)
 
+# 2. Android SDK
+* [build xx.java to xx.dex and run by dx cmd](android_sdk/build_dex_from_java_and_run)
+
+
+# 3. dex2jar
+* [dex to jar](dex2jar/dex_to_jar)
 
