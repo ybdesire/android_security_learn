@@ -14,3 +14,8 @@ My  code or steps for android security related stuffs.
 # 3. dex2jar
 * [dex to jar](dex2jar/dex_to_jar)
 
+
+# 4. dexdump
+* [parse dex by dexdump](dexdump/readme.md)
+
+
