@@ -21,3 +21,4 @@ My  code or steps for android security related stuffs.
 
 # 5. androguard
 * [apk level: extract app name, package, version](androguard/basic_apk_info.py)
+* [extract opcode for special function](androguard/ex_opcode.py)
