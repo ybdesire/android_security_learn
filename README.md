@@ -25,3 +25,8 @@ My  code or steps for android security related stuffs.
 
 # 6. dex2smail
 * [convert dex file to smail code](dex_to_smali/readme.md)
+
+# 7. backsmali
+* [convert smali code to dex file](backsmali/readme.md)
+
+
