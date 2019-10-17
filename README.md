@@ -24,6 +24,7 @@ My  code or steps for android security related stuffs.
 * [apk level: extract app name, package, version](androguard/basic_apk_info.py)
 * [extract opcode for special function](androguard/ex_opcode.py)
 * [apk level: extract activity, service, provider, receiver, permission](androguard/apk_components.py)
+* [dex level: extract class, method, field, string ](androguard/dex_class_method_field_string.py)
 
 
 # 6. dex2smail
