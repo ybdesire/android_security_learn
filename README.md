@@ -6,6 +6,7 @@ My  code or steps for android security related stuffs.
 * [java bytecode, .class to bytecode](jdk/java_bytecode)
 * [java to jar](jdk/java_to_jar)
 * [java reflection](https://github.com/ybdesire/javalearn/tree/master/1_basic_knowledge/15_reflact)
+* [apk sign](jdk/jdk_apk_sign/)
 
 
 # 2. Android SDK
