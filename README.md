@@ -35,3 +35,7 @@ My  code or steps for android security related stuffs.
 * [convert smali code to dex file](backsmali/readme.md)
 
 
+# 8. apktool
+* [install apktool](install_steps.md)
+* [apk extract to res/smali](apktool_decode.md)
+* [build extracted res/smali to apk](apktool/apktool_build.md)
