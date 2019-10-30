@@ -39,3 +39,7 @@ My  code or steps for android security related stuffs.
 * [install apktool](install_steps.md)
 * [apk extract to res/smali](apktool_decode.md)
 * [build extracted res/smali to apk](apktool/apktool_build.md)
+
+
+# 9. JNI
+* [java code call c function by so file](jni/java_call_c/)
