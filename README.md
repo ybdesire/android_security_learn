@@ -43,3 +43,12 @@ My  code or steps for android security related stuffs.
 
 # 9. JNI
 * [java code call c function by so file](jni/java_call_c/)
+
+
+# 10. readelf
+* [list all function names in elf file, so file](elf_reverse/readelf_cmd.md)
+
+
+
+
+
