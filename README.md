@@ -49,6 +49,8 @@ My  code or steps for android security related stuffs.
 * [list all function names in elf file, so file](elf_reverse/readelf_cmd.md)
 
 
+# 11. uiautomator
+* [uiautomator environment setup](uiautomator/README.md)
 
 
 
