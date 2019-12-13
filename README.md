@@ -51,6 +51,14 @@ My  code or steps for android security related stuffs.
 
 # 11. uiautomator
 * [uiautomator environment setup](uiautomator/README.md)
+* [get device info](uiautomator/get_device_info.py)
+* [turn on/off device](uiautomator/device_turn_on_off.py)
+* [click screen to open app](uiautomator/click_app.py)
+* [press home key](uiautomator/press_home.py)
+* [swip down to up](uiautomator/swip.py)
+* [get screenshot](uiautomator/get_screenshot.py)
+
+
 
 
 
