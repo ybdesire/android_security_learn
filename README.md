@@ -59,6 +59,13 @@ My  code or steps for android security related stuffs.
 * [get screenshot](uiautomator/get_screenshot.py)
 
 
+# 12. parse dex file by raw python
+
+* [dex header info](parse_dex_py_raw/header_info_dex_parse.ipynb)
+* [extract strings from dex file](parse_dex_py_raw/get_all_strings.ipynb)
+* [string_ids, type_ids, proto_ids](parse_dex_py_raw/string_type_proto.ipynb)
+* [extract method header](parse_dex_py_raw/get_all_method.ipynb)
+* [extract field](parse_dex_py_raw/get_all_field.ipynb)
 
 
 
