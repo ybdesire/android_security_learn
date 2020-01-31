@@ -66,6 +66,7 @@ My  code or steps for android security related stuffs.
 * [string_ids, type_ids, proto_ids](parse_dex_py_raw/string_type_proto.ipynb)
 * [extract method header](parse_dex_py_raw/get_all_method.ipynb)
 * [extract field](parse_dex_py_raw/get_all_field.ipynb)
+* [more detailed dex parsing by python](https://github.com/bunseokbot/dexparser/)
 
 
 
