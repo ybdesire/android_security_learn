@@ -70,5 +70,6 @@ My  code or steps for android security related stuffs.
 * [extract field](parse_dex_py_raw/get_all_field.ipynb)
 * [more detailed dex parsing by python](https://github.com/bunseokbot/dexparser/)
 
-
+# 13. parse manifest
+* [get premission, activity, service, receiver, and action name](parse_android_manifest/get_permission_activity_action_service_list.py)
 
